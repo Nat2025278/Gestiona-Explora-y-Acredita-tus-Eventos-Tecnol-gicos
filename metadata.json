@@ -1,0 +1,6 @@
+{
+  "name": "EventEase - Plataforma de Eventos con Microsoft Copilot",
+  "description": "Aplicación integral de gestión de eventos desarrollada, depurada y optimizada con asistencia de Microsoft Copilot. Incluye vinculación bidireccional, enrutamiento robusto, control de asistencia y registro de sesiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
